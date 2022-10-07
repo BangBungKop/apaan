@@ -149,7 +149,7 @@ echo -e "□ Clients Name        = $Name"
 echo -e "□ Exfire Script VPS   = $Exp"
 echo -e "□ Time Reboot VPS     = 00:00 ${GREEN}( Jam 12 Malam )${NC}"
 echo -e "□ License Limit       = 3 VPS ${GREEN}( Persatu IP VPS )${NC}"
-echo -e "□ AutoScript By Dev   = XDRG ${GREEN}( RIDWAN-DEV112 )${NC}"
+echo -e "□ AutoScript By Dev   = XDRG ${GREEN}( NU-BOSS )${NC}"
 
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "\E[44;1;39m                     ⇱ STATUS LAYANAN ⇲                       \E[0m"
